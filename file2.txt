@@ -1,1 +1,2 @@
 This is file 2 cretaed for demo.
+adding line to check the output of git diff.
